@@ -8,6 +8,17 @@
 #### Home
 ![메인페이지](https://github.com/Team-OMD/.github/assets/137386209/06ddabc1-6736-4ed5-94b8-db3ef538e02c)
 
+#### Setup Board 
+![셋업게시판](https://github.com/Team-OMD/.github/assets/137386209/1800199f-22d2-4a3d-873d-9caa6b707f5e)
+
+#### Post Setup
+https://github.com/Team-OMD/.github/assets/137386209/eaef5a5e-196e-47a5-9547-f9400bdcb53d
+
+
+
+#### Goods Board
+![상품게시판](https://github.com/Team-OMD/.github/assets/137386209/792b0b79-4d04-4ca1-9903-de061434d3d5)
+
 #### Custom My Desktop
 ![데스크탑구성](https://github.com/Team-OMD/.github/assets/137386209/6ca2c799-39af-434a-98de-10c56e735d79)
 
