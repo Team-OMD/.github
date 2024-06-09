@@ -5,6 +5,12 @@
 
 ## Demo
 
+#### Home
+![메인페이지](https://github.com/Team-OMD/.github/assets/137386209/06ddabc1-6736-4ed5-94b8-db3ef538e02c)
+
+#### Custom My Desktop
+![데스크탑구성](https://github.com/Team-OMD/.github/assets/137386209/6ca2c799-39af-434a-98de-10c56e735d79)
+
 ## Architecture
 ![image](https://github.com/Team-OMD/.github/assets/79782580/5b12df76-0d97-425e-9845-132d98cb881d)
 
